@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\POO_VB\POO_VB\bin\Debug\net6.0\POO_VB.exe
+C:\Users\guilh\source\repos\POO_VB\POO_VB\bin\Debug\net6.0\POO_VB.deps.json
+C:\Users\guilh\source\repos\POO_VB\POO_VB\bin\Debug\net6.0\POO_VB.runtimeconfig.json
+C:\Users\guilh\source\repos\POO_VB\POO_VB\bin\Debug\net6.0\POO_VB.dll
+C:\Users\guilh\source\repos\POO_VB\POO_VB\bin\Debug\net6.0\POO_VB.pdb
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.vbproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.AssemblyInfo.vb
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.vbproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.dll
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\refint\POO_VB.dll
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.pdb
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\POO_VB.genruntimeconfig.cache
+C:\Users\guilh\source\repos\POO_VB\POO_VB\obj\Debug\net6.0\ref\POO_VB.dll
